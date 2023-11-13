@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://github.com/AImeetsAG/AImeetsAG.github.io/sitemap.xml
