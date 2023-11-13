@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Book Recommender System
+description: a project using ALS matrix factorization and SGD
+img: assets/img/book_recommender.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: machine learning, deep learning, stochastic gradient descent, matrix factorization, gradient descent 
 ---
 
 Every project has a beautiful feature showcase page.
