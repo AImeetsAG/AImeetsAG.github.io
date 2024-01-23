@@ -22,9 +22,9 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD. student in the mathematics department at Kansas State University. I am affiliated with the [NODE (Network Optimization Design and Exploration) group](https://math.ksu.edu/research/centers-groups/node-group/) which is an interdisciplinary team of researchers working on theory and applications of network theory.
 
 Current Research Interests:
-* Theoretical/Computational Neuroscience
-* Network and Graph Theory
-* Machine Learning/Deep Learning
-* Topological Data Analysis
+* Network Science and Graph Theory
+* Machine Learning, Deep Learning
+* Reinforcement Learning, GFlownets
 * Natural Language Processing
+* Computational Neuroscience
 
