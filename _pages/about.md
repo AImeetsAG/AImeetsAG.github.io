@@ -23,8 +23,6 @@ I am a PhD. student in the mathematics department at Kansas State University. I 
 
 Current Research Interests:
 * Network Science and Graph Theory
-* Machine Learning, Deep Learning
-* Reinforcement Learning, GFlownets
-* Natural Language Processing
-* Computational Neuroscience
+* Graph Neural Networks
+* Deep Learning
 
