@@ -33,14 +33,14 @@ Office hours: MTWU 9:15-10:15 pm or by appointment (email to schedule). Also ava
 - Learn how to solve differential equations using Laplace transform.
 
 ## Required Texts
-We will use  [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/) by Jiri Lebl. The textbook is available free of charge.
+We will use  [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/){:target="_blank"} by Jiri Lebl. The textbook is available free of charge.
 
 ## Resources 
-You should contact your instructor for any exceptional circumstances. We encourage you to seek help from the instructor during their office hours. The math help session is a great resource for math tutoring and are held Monday through Friday, beginning the second week of class. Several instructors will be present to assist you. [Math Help](https://www.math.ksu.edu/student-success/ugrad/help/helpsess.html)\\
-Other K-state Tutoring: [Academic Achievement Center Tutoring Services](https://www.k-state.edu/aac/tutoring/)\\
-[Steve Brunton ODE videos: Differential Equations.](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)\\
-[3Blue1Brown Calculus videos: Essence of Calculus.](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)\\
-[3Blue1Brown Linear Algebra videos: Essence of Linear Algebra.](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+You should contact your instructor for any exceptional circumstances. We encourage you to seek help from the instructor during their office hours. The math help session is a great resource for math tutoring and are held Monday through Friday, beginning the second week of class. Several instructors will be present to assist you. [Math Help](https://www.math.ksu.edu/student-success/ugrad/help/helpsess.html){:target="_blank"}\\
+Other K-state Tutoring: [Academic Achievement Center Tutoring Services](https://www.k-state.edu/aac/tutoring/){:target="_blank"}\\
+[Steve Brunton ODE videos: Differential Equations.](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA){:target="_blank"}\\
+[3Blue1Brown Calculus videos: Essence of Calculus.](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr){:target="_blank"}\\
+[3Blue1Brown Linear Algebra videos: Essence of Linear Algebra.](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab){:target="_blank"}
 
 
 
@@ -53,7 +53,7 @@ Other K-state Tutoring: [Academic Achievement Center Tutoring Services](https://
 |      | 04-Jun-24 | Tuesday   | Chapter 0                 |          |                                          |
 |      | 05-Jun-24 | Wednesday | Section 1.1               |          |                                          |
 |      | 06-Jun-24 | Thursday  | Section 1.2               |          |                                          |
-|      | 07-Jun-24 | Friday    | Section 1.3               | <a href="/teaching/ode_340_summ24/HW 1.pdf" target="_blank">HW 1 due</a>    | [Differential Equations and Dynamical Systems: Overview](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=1) + [Calculus Review: The Derivative (and the Power Law and Chain Rule)](https://www.youtube.com/watch?v=-NhgElcA3K8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=2) |
+|      | 07-Jun-24 | Friday    | Section 1.3               | <a href="/teaching/ode_340_summ24/HW 1.pdf" target="_blank">HW 1 due</a>    | [Differential Equations and Dynamical Systems: Overview](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=1){:target="_blank"} + [Calculus Review: The Derivative (and the Power Law and Chain Rule)](https://www.youtube.com/watch?v=-NhgElcA3K8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=2){:target="_blank"} |
 |      |           |           |                           |          |                                          |
 | 2    | 10-Jun-24 | Monday    | Section 1.4               |          |                                          |
 |      | 11-Jun-24 | Tuesday   | Section 1.5               |          |                                          |
@@ -71,13 +71,13 @@ Other K-state Tutoring: [Academic Achievement Center Tutoring Services](https://
 |      | 25-Jun-24 | Tuesday   | Section 2.5               |          |                                          |
 |      | 26-Jun-24 | Wednesday | Section 2.5               |          |                                          |
 |      | 27-Jun-24 | Thursday  | Review                    |      |                                          |
-|      | 28-Jun-24 | Friday    | <a href="/teaching/ode_340_summ24/exam2.pdf" target="_blank">Exam 2</a>                 | <a href="/teaching/ode_340_summ24/HW 4.pdf" target="_blank">HW 4 due</a>       | [Solving the Harmonic Oscillator Four Ways](https://www.youtube.com/watch?v=8ePqqZXSMQs&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=8)                            |
+|      | 28-Jun-24 | Friday    | <a href="/teaching/ode_340_summ24/exam2.pdf" target="_blank">Exam 2</a>                 | <a href="/teaching/ode_340_summ24/HW 4.pdf" target="_blank">HW 4 due</a>       | [Solving the Harmonic Oscillator Four Ways](https://www.youtube.com/watch?v=8ePqqZXSMQs&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=8){:target="_blank"}                            |
 |      |           |           |                           |          |                                          |
 | 5    | 01-Jul-24 | Monday    | Section 3.1               |          |                                          |
 |      | 02-Jul-24 | Tuesday   | Section 3.2               |          |                                          |
 |      | 03-Jul-24 | Wednesday | Section 3.2               |          |                                          |
 |      | 04-Jul-24 | Thursday  | Holiday                   |       |                                          |
-|      | 05-Jul-24 | Friday    | Section 3.3               |   <a href="/teaching/ode_340_summ24/HW5.pdf" target="_blank">HW 5 due</a>      | [Matrix Systems of Differential Equations](https://www.youtube.com/watch?v=Vtijyyo5fKI&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=13)+ [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)              |
+|      | 05-Jul-24 | Friday    | Section 3.3               |   <a href="/teaching/ode_340_summ24/HW5.pdf" target="_blank">HW 5 due</a>      | [Matrix Systems of Differential Equations](https://www.youtube.com/watch?v=Vtijyyo5fKI&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=13){:target="_blank"}+ [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B){:target="_blank"}              |
 |      |           |           |                           |          |                                          |
 | 6    | 08-Jul-24 | Monday    | Section 3.4               |          |                                          |
 |      | 09-Jul-24 | Tuesday   | Section 3.5               |          |                                          |
@@ -89,13 +89,13 @@ Other K-state Tutoring: [Academic Achievement Center Tutoring Services](https://
 |      | 16-Jul-24 | Tuesday   | Section 6.2               |          |                                          |
 |      | 17-Jul-24 | Wednesday | Section 6.2               |          |                                          |
 |      | 18-Jul-24 | Thursday  | Section 6.3               |     |                                          |
-|      | 19-Jul-24 | Friday    | Section 6.3               |  <a href="/teaching/ode_340_summ24/HW 7.pdf" target="_blank">HW 7 due</a>        | [The intuition behind Fourier and Laplace transforms](https://www.youtube.com/watch?v=3gjJDuCAEQQ)+[But what is the Fourier Transform?](https://www.youtube.com/watch?v=spUNpyF58BY)                       |
+|      | 19-Jul-24 | Friday    | Section 6.3               |  <a href="/teaching/ode_340_summ24/HW 7.pdf" target="_blank">HW 7 due</a>        | [The intuition behind Fourier and Laplace transforms](https://www.youtube.com/watch?v=3gjJDuCAEQQ){:target="_blank"}+[But what is the Fourier Transform?](https://www.youtube.com/watch?v=spUNpyF58BY){:target="_blank"}                       |
 |      |           |           |                           |          |                                          |
 | 8    | 22-Jul-24 | Monday    | Section 6.4               |          |                                          |
 |      | 23-Jul-24 | Tuesday   | Section 6.4               |          |                                          |
 |      | 24-Jul-24 | Wednesday | Review                    |          |                                          |
 |      | 25-Jul-24 | Thursday  | Review                    |   |                                          |
-|      | 26-Jul-24 | Friday    | <a href="/teaching/ode_340_summ24/final.pdf" target="_blank">Final</a>                   |<a href="/teaching/HW 8.pdf" target="_blank">HW 8 due</a>             |                                          |
+|      | 26-Jul-24 | Friday    | <a href="/teaching/ode_340_summ24/final.pdf" target="_blank">Final</a>                   |<a href="/teaching/ode_340_summ24/Hw 8.pdf" target="_blank">HW 8 due</a>             |                                          |
 
 
 
