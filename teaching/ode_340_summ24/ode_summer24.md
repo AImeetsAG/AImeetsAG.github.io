@@ -17,7 +17,7 @@ This course teaches you the fundamentals of differential equations. Differential
 Lecturer and Coordinator: Abhinav Chand\\
 Email: achand1@{} #put ksu.edu inside the brakcets and remove the brackets.\\
 Office: Cardwell Hall 127\\
-Office hours: MTWU 9:15-10:15 pm or by appointment (email to schedule). Also available by zoom.\\
+Office hours: MTWU 9:15-10:15 pm or by appointment (email to schedule). Also available by zoom.
 
 ## Course Objectives
 

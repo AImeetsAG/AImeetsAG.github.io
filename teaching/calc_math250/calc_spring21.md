@@ -6,11 +6,6 @@ permalink: /teaching/calc_spring21
 
 This is not the official course page. Some materials for the course are listed below.
 
-## Syllabus and Course Policy
-
-<a href="/teaching/calc_math250/Course Policy and Syllabus/schedule.pdf" target="_blank">Syllabus</a>\\
-<a href="/teaching/calc_math250/Course Policy and Syllabus/course policy.pdf" target="_blank">Course Policy</a>
-
 ## Lecture Notes
 
 <a href="/teaching/calc_math250/Notes/jan13_functionsandrateofchange.pdf" target="_blank">Jan 13: Functions and rate of change</a><br>
@@ -34,3 +29,7 @@ This is not the official course page. Some materials for the course are listed b
 <a href="/teaching/calc_math250/Notes/apr20_antiderivate+applic.pdf" target="_blank">April 20: Antiderivate and applications</a><br>
 <a href="/teaching/calc_math250/Notes/apr22_review.pdf" target="_blank">April 22: Review</a><br>
 <a href="/teaching/calc_math250/Notes/apr29_finalreview.pdf" target="_blank">April 29: Final review</a><br>
+
+## Exams
+
+<a href="/teaching/calc_math250/exam latex/Midterm 1 Math 250.pdf" target="_blank">Midterm 1</a><br>
