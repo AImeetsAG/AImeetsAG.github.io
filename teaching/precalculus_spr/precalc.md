@@ -29,11 +29,11 @@ This is not the official course page. Some materials for the course are listed b
 
 ## Exams
 
-<a href="/teaching/precalculus_spr/exams/exam1.pdf" target="_blank">Midterm 1</a><br>
-<a href="/teaching/precalculus_spr/exams/exam2.pdf" target="_blank">Midterm 2</a><br>
-<a href="/teaching/precalculus_spr/exams/exam3.pdf" target="_blank">Midterm 3</a><br>
-<a href="/teaching/precalculus_spr/exams/exam4.pdf" target="_blank">Midterm 4</a><br>
-<a href="/teaching/precalculus_spr/exams/final.pdf" target="_blank">Final</a><br>
+<a href="/teaching/precalculus_spr/exams/exam1.pdf" target="_blank">1. Midterm 1</a> <br> <a href="/teaching/precalculus_spr/exams/solution midterm1.pdf" target="_blank">(Solution)</a><br>
+<a href="/teaching/precalculus_spr/exams/exam2.pdf" target="_blank">2. Midterm 2</a><br> <a href="/teaching/precalculus_spr/exams/solution midterm2.pdf" target="_blank">(Solution)</a><br>
+<a href="/teaching/precalculus_spr/exams/exam3.pdf" target="_blank">3. Midterm 3</a><br> <a href="/teaching/precalculus_spr/exams/solution midterm3.pdf" target="_blank">(Solution)</a><br>
+<a href="/teaching/precalculus_spr/exams/exam4.pdf" target="_blank">4. Midterm 4</a><br>
+<a href="/teaching/precalculus_spr/exams/final.pdf" target="_blank">5. Final</a><br>
 
 
 
