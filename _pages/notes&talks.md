@@ -11,8 +11,8 @@ nav_order: 6
 
 
 **Introduction to Gflownets** <a href="/notes/Gflownets Slides.pdf" target="_blank">Slides</a>\\
-**Introduction to Threshold Networks** <a href="/notes/ctln_slides.pdf" target="_blank">Slides</a>
-
+**Introduction to Threshold Networks** <a href="/notes/ctln_slides.pdf" target="_blank">Slides</a>\\
+**Applications of Neural Networks to Modulus on Networks** <a href="/notes/Applications of Neural Networks to Modulus on Networks.pptx" target="_blank">Slides</a>
 ### Representation Theory, Symplectic Geometry, Algebraic Geometry
 
 
