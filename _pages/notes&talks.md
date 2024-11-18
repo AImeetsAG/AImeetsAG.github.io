@@ -18,7 +18,7 @@ nav_order: 6
 
 
 **Introduction to D-Modules** <a href="/notes/DModule.pdf" target="_blank">Slides</a>\\
-**Introduction to Lie Algebras** <a href="/notes/Lie Alg.pdf" target="_blank">Slides</a>\\
+**Introduction to Lie Algebras** <a href="notes/Lie Alg .pdf" target="_blank">Slides</a>\\
 **Symplectic Reduction** <a href="/notes/Symplectic Reduction.pdf" target="_blank">Slides</a>\\
 **Orbit Method** <a href="/notes/orbit method.pdf" target="_blank">Exposition</a>
 
